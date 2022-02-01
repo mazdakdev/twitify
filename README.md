@@ -2,7 +2,13 @@
 # Twitify 🔭
 ## A modern twitter clone
 - - - - 
- ⚠️ This Project is still under development and it's not ready to use
+ ⚠️ This Project is still under development and it's not ready to use\
+ # TODO
+- [✓] Create Django app
+- [ ] CRUD for tweets
+- [ ] show tweets on vue.js
+- [ ] like , re-tweet and comment functionality
+- [ ] follow and unfollow
 - - - -
 
 # Author :
