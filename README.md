@@ -5,6 +5,7 @@
  ⚠️ This Project is still under development and it's not ready to use\
  # TODO
 - [X] Create Django app
+- [ ] Authentication system  
 - [ ] CRUD for tweets
 - [ ] show tweets on vue.js
 - [ ] like , re-tweet and comment functionality
