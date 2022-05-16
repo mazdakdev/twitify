@@ -10,6 +10,7 @@
 - [ ] show tweets on vue.js
 - [ ] like , re-tweet and comment functionality
 - [ ] follow and unfollow
+- [ ] Block users
 - - - -
 
 # Author :
