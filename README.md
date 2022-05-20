@@ -6,7 +6,7 @@
 - - - -
  # TODO
 - [X] Create Django app
-- [ ] Authentication system  
+- [X] Authentication system  
 - [ ] CRUD for tweets
 - [ ] show tweets on vue.js
 - [ ] like , re-tweet and comment functionality
