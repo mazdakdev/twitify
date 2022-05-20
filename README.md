@@ -2,7 +2,7 @@
 # Twitify 🔭
 ## A modern twitter clone
 - - - - 
- ⚠️ This Project is still under development and it's not ready to use\
+ ⚠️ This Project is still under development and it's not ready to use
  # TODO
 - [X] Create Django app
 - [ ] Authentication system  
