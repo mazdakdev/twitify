@@ -12,6 +12,7 @@
 - [ ] like , re-tweet and comment functionality
 - [ ] follow and unfollow
 - [ ] Block users
+- [ ] Add recommender-system
 - - - -
 
 # Author :
